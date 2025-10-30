@@ -11,11 +11,15 @@
     >
   </picture>
   <br>
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bae4baf3-19eb-4fe1-b76f-02de62645b04" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2a1dfbb9-622b-4d8c-b3c9-be03b05bf9b0" />
+ </a>
+   <br>
+   <br>
+   Build for Orange_Pi_One_Plus by DancyCat
+</p>
 
 
-
-# Armbian for Orange Pi One Plus
+# Armbian Unoffical for Orange Pi One Plus
 I am making all these builds for Orange Pi One Plus, you can download those builds to use on your device. However, since this is an unofficial build, we will not be responsible for all of the above. If you are unlucky enough to encounter those things and report the issue to me, I will laugh at you...
 ## Install Boot
 Conditions you must have:
